@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather',serif;
+    
+}
+
+h1{
+    color: #11999E;
+    font-size: 5.625em;
+   margin-top: 50px;
+   font-family: 'Sacramento', cursive;
+   line-height: 2;
+}
+
+h2{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+h3{
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+}
+
+.top-container{
+    background-color: #F5F5F5;
+    position: relative;
+    padding-top: 130px;
+}
+
+.middle-container{
+    background-color: #F5F5F5;
+}
+
+.bottom-container{
+    background-color:#66bfbf;
+    padding: 50px 0 50px;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.code-img{
+    width: 36%;
+    float: left;
+    margin-right: 40px;
+}
+
+.ramen-img{
+    width: 35%;
+    float: right;
+    margin-left: 40px;
+}
+
+
+.pro{
+    text-decoration-line: underline;
+
+}
+.bcloud{
+    position: absolute;
+    right: 430px;
+    top: 50px;
+}
+.tcloud{
+    position: absolute;
+    left: 400px;
+    bottom: 300px;
+}
+a{
+    color: #11999E;
+    margin: 10px 20px;
+}
+a:hover{
+    color: #F5F5F5;
+}
+
+.btn {
+    -webkit-border-radius: 17;
+    -moz-border-radius: 17;
+    border-radius: 17px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 19px;
+    background: #66bfbf;
+    padding: 10px 16px 20px 17px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3fbaa4;
+    text-decoration: none;
+  }
+.copyright{
+    color: #F5F5F5;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
